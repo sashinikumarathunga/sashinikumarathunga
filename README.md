@@ -2,8 +2,7 @@
 
 ### 🎓 Computer Science & Informatics Student | 💻 Web Developer
 
-I'm a Computer Science & Informatics student passionate about building
-practical and user-focused software solutions.
+I'm a Computer Science & Informatics student passionate about building practical and user-focused software solutions.
 
 💻 Interested in Web Development & Software Engineering  
 🗄️ Exploring databases and backend development  
@@ -26,16 +25,19 @@ practical and user-focused software solutions.
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Database & Tools
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -46,8 +48,7 @@ practical and user-focused software solutions.
 
 ### 🏪 Smart Clothing Stock Management System
 
-A web-based inventory management system designed to help clothing
-retail stores manage products and stock across multiple branches.
+A web-based inventory management system designed to help clothing retail stores manage products and stock across multiple branches.
 
 **Technologies:** PHP • MySQL • HTML • CSS • Bootstrap • JavaScript
 
@@ -78,15 +79,27 @@ retail stores manage products and stock across multiple branches.
 
 ## 🎯 My Goals
 
-I aim to continuously improve my software development skills,
-build meaningful projects, and gain practical experience in
-the software industry.
+I aim to continuously improve my software development skills, build meaningful projects, and gain practical experience in the software industry.
 
 ---
 
 ## 📫 Let's Connect
 
-💻 **GitHub:** [@sashinikumarathunga](https://github.com/sashinikumarathunga)
+<p align="left">
+
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sashini-kumarathunga-6625a3258/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://cdn.simpleicons.org/instagram/E4405F">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1Bzr8m7VFe/">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" alt="Facebook"/>
+</a>
+</p>
 
 ---
 
